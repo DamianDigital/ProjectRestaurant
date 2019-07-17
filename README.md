@@ -1,2 +1,0 @@
-# ProjectRestaurant
-Restaurant On-line
